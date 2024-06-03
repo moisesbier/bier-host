@@ -8,6 +8,8 @@ Olá, bem-vindo ao meu projeto Bier Host, uma página desenvolvida para uma empr
 
 #### Linkedin: https://www.linkedin.com/in/moisesbier/
 
+#### Site: https://bierhost.vercel.app/
+
 ### Responsividade Desktop ###
 
 ![Tela primária](https://i.imgur.com/Zb5ViAx.png)
